@@ -30,7 +30,7 @@ grep -oh 'member/.*</a>' v2ex.txt|grep -v "xiaoz"|grep -v "@"|grep -oh ">[a-zA-Z
 
 3. `uniq`去重重复楼层的用户
 
-4. `shuf`随机去除3行作为幸运用户
+4. `shuf`随机抽取3行作为幸运用户
 
 
 
